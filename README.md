@@ -4,3 +4,9 @@
 
 - LSTM
 - Bert
+
+## Steps
+
+- Embeddings
+- Model
+- Update
